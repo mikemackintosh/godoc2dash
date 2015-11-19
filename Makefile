@@ -1,5 +1,3 @@
-GO := $(shell which go)
-
 include Config.mk
 
 all:
